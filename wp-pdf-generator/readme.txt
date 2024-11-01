@@ -1,10 +1,10 @@
 === WP PDF Generator===
-Contributors: wpexpertsio
+Contributors: wpexpertsio, saadiqbal
 Tags: wordpress pdf plugin,wordpress pdf generator,pdf plugin, pdf wordpress plugin,pdf converter,html to pdf,web to pdf,web page to pdf,pdf generator,html to pdf php,php to pdf,save page as pdf,plugins,convert web to pdf,convert web page to pdf,save html as pdf,save web page as pdf, pages
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=pay@objects.ws&item_name=Donation For Plugin
 Requires at least: 3.0.1
-Tested up to: 6.2.2
-Stable tag: 1.2.3
+Tested up to: 6.6
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,8 +64,11 @@ wp_objects_pdf();
 
 
 == Changelog ==
-= 1.2.3 =
+= 1.2.4 =
+* Tested up to WordPress v6.6.x
+* Transfer plugin ownership
 
+= 1.2.3 =
 * Improvement - Code Optimization
 
 = 1.2.2 =

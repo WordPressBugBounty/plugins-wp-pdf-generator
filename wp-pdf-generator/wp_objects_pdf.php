@@ -3,11 +3,11 @@
 * Plugin Name: WP PDF Generator
 * Plugin URI: https://wpexperts.io/products/wordpress-pdf-generator/
 * Description: Easy Web to PDF Download
-* Version: 1.2.3
+* Version: 1.2.4
 * Author: wpexperts.io
 * Author URI: https://wpexperts.io/
 * Requires at least: WP 3.0.1
-* Tested up to: 6.2.2
+* Tested up to: 6.6
 * License: GPLv2 or later
 * Text Domain: wpexperts
 */
